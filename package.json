@@ -1,0 +1,23 @@
+{
+  "name": "bio-mygene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bio-mygene-panel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bit/marko-ignjatovic.biopolymer.bio-link": "^1.0.2",
+    "@bit/marko-ignjatovic.biopolymer.bio-mygene-search": "^1.0.0",
+    "@bit/marko-ignjatovic.biopolymer.bio-pdb-viewer": "^1.0.0",
+    "@bit/marko-ignjatovic.biopolymer.bio-pubmed-card": "^1.0.2",
+    "@polymer/iron-ajax": "^3.0.1",
+    "@polymer/iron-flex-layout": "^3.0.1",
+    "@polymer/iron-list": "^3.1.0",
+    "@polymer/iron-pages": "^3.0.1",
+    "@polymer/paper-input": "^3.0.2",
+    "@polymer/paper-tabs": "^3.1.0"
+  }
+}
