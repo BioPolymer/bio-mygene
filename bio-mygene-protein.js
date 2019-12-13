@@ -1,8 +1,8 @@
 import { PolymerElement, html } from "@polymer/polymer/polymer-element.js";
-import "@bit/marko-ignjatovic.biopolymer.bio-pdb-viewer/bio-pdb-viewer/bio-pdb-list";
-import "@bit/marko-ignjatovic.biopolymer.bio-pdb-viewer/bio-pdb-viewer/bio-pdb-viewer";
-import "@bit/marko-ignjatovic.biopolymer.bio-link/bio-link/bio-link-fld";
-import "@bit/marko-ignjatovic.biopolymer.bio-link/bio-link/bio-link-tray";
+import "@biopolymer-elements/bio-pdb/bio-pdb-list";
+import "@biopolymer-elements/bio-pdb/bio-pdb-viewer";
+import "@biopolymer-elements/bio-link/bio-link-fld";
+import "@biopolymer-elements/bio-link/bio-link-tray";
 
 /**
  * `BioMygeneProtein` Description

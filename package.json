@@ -1,14 +1,18 @@
 {
-  "name": "bio-mygene",
+  "name": "@biopolymer-elements/bio-mygene",
   "version": "1.0.0",
-  "description": "",
+  "description": "MyGene.info-related web components",
   "main": "bio-mygene-panel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mark Fortner, Ishan Subedi",
+  "license": "BSD-3-Clause",
   "dependencies": {
+    "@biopolymer-elements/bio-link": "^1.0.1",
+    "@biopolymer-elements/bio-mygene-search": "^1.0.0",
+    "@biopolymer-elements/bio-pdb": "^1.0.0",
+    "@biopolymer-elements/bio-pubmed": "^1.0.0",
     "@bit/marko-ignjatovic.biopolymer.bio-link": "^1.0.2",
     "@bit/marko-ignjatovic.biopolymer.bio-mygene-search": "^1.0.0",
     "@bit/marko-ignjatovic.biopolymer.bio-pdb-viewer": "^1.0.0",
@@ -19,5 +23,19 @@
     "@polymer/iron-pages": "^3.0.1",
     "@polymer/paper-input": "^3.0.2",
     "@polymer/paper-tabs": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioPolymer/bio-mygene.git"
+  },
+  "keywords": [
+    "bio",
+    "mygene",
+    "biopolymer"
+  ],
+  "bugs": {
+    "url": "https://github.com/BioPolymer/bio-mygene/issues"
+  },
+  "homepage": "https://github.com/BioPolymer/bio-mygene#readme"
 }

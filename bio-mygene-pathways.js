@@ -1,6 +1,6 @@
 import { PolymerElement, html } from "@polymer/polymer/polymer-element.js";
 import "@polymer/iron-flex-layout/iron-flex-layout";
-import "@bit/marko-ignjatovic.biopolymer.bio-link/bio-link/bio-link-tray";
+import "@biopolymer-elements/bio-link/bio-link-tray";
 
 /**
  * `bio-mygene-pathways`

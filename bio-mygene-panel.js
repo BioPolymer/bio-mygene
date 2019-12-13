@@ -6,7 +6,7 @@ import "./bio-mygene-summary";
 import "./bio-mygene-protein";
 import "./bio-mygene-pathways";
 import "./bio-mygene-pubs";
-import "@bit/marko-ignjatovic.biopolymer.bio-mygene-search/bio-mygene-search/bio-mygene-search";
+import "@biopolymer-elements/bio-mygene-search";
 
 /**
  * `BioMygenePanel`

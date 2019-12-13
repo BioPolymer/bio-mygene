@@ -1,7 +1,7 @@
 import { PolymerElement, html } from "@polymer/polymer/polymer-element.js";
 import "@polymer/iron-flex-layout/iron-flex-layout";
 import "@polymer/iron-list/iron-list";
-import "@bit/marko-ignjatovic.biopolymer.bio-pubmed-card/bio-pubmed-card/bio-pubmed-card";
+import "@biopolymer-elements/bio-pubmed/bio-pubmed-card";
 
 /**
  * `bio-mygene-pubs`   This component is responsible for displaying a collection of pubmed articles.

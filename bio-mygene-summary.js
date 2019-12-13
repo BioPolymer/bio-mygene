@@ -1,5 +1,6 @@
 import { PolymerElement, html } from "@polymer/polymer/polymer-element.js";
-import "@bit/marko-ignjatovic.biopolymer.bio-link/bio-link/bio-link-fld";
+import "@biopolymer-elements/bio-link/bio-link-fld";
+
 import "@polymer/iron-flex-layout/iron-flex-layout";
 import "@polymer/paper-input/paper-input";
 import "@polymer/paper-input/paper-textarea";
