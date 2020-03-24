@@ -1,6 +1,6 @@
 {
   "name": "@biopolymer-elements/bio-mygene",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "MyGene.info-related web components",
   "main": "bio-mygene-panel.js",
   "scripts": {
@@ -9,14 +9,10 @@
   "author": "Mark Fortner, Ishan Subedi",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "@biopolymer-elements/bio-link": "^1.0.1",
+    "@biopolymer-elements/bio-link": "^1.0.4",
     "@biopolymer-elements/bio-mygene-search": "^1.0.0",
-    "@biopolymer-elements/bio-pdb": "^1.0.0",
-    "@biopolymer-elements/bio-pubmed": "^1.0.0",
-    "@bit/marko-ignjatovic.biopolymer.bio-link": "^1.0.2",
-    "@bit/marko-ignjatovic.biopolymer.bio-mygene-search": "^1.0.0",
-    "@bit/marko-ignjatovic.biopolymer.bio-pdb-viewer": "^1.0.0",
-    "@bit/marko-ignjatovic.biopolymer.bio-pubmed-card": "^1.0.2",
+    "@biopolymer-elements/bio-pdb": "^1.0.2",
+    "@biopolymer-elements/bio-pubmed": "^2.0.1",
     "@polymer/iron-ajax": "^3.0.1",
     "@polymer/iron-flex-layout": "^3.0.1",
     "@polymer/iron-list": "^3.1.0",
